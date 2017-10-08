@@ -3,7 +3,7 @@ Andrew Ng course of Machine Learning using MATLAB/Octave. Covering all the topic
 
 # Week 1 - 
 Introduction
-Linear Regression with One Variable
+Linear Regression with One Variable/n
 Linear Algebra Review
 
 # Week 2 - 
