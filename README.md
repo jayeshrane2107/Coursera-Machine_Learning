@@ -2,41 +2,41 @@
 Andrew Ng course of Machine Learning using MATLAB/Octave. Covering all the topics and fundamental concepts of Machine Learning. Refer readme for detailed syllabus.
 
 # Week 1 - 
-Introduction
-Linear Regression with One Variable/n
-Linear Algebra Review
+Introduction  
+Linear Regression with One Variable  
+Linear Algebra Review  
 
 # Week 2 - 
-Linear Regression with Multiple Variables
-Octave/Matlab Tutorial
+Linear Regression with Multiple Variables  
+Octave/Matlab Tutorial  
 
 # Week 3 - 
-Logistic Regression
-Regularization
+Logistic Regression  
+Regularization  
 
 # Week 4 - 
-Neural Networks: Representation
+Neural Networks: Representation  
 
 # Week 5 - 
-Neural Networks: Learning
+Neural Networks: Learning  
 
 # Week 6 - 
-Advice for Applying Machine Learning
-Machine Learning System Design
+Advice for Applying Machine Learning  
+Machine Learning System Design  
 
 # Week 7 - 
-Support Vector Machines
+Support Vector Machines  
 
 # Week 8 - 
-Unsupervised Learning
-Dimensionality Reduction
+Unsupervised Learning  
+Dimensionality Reduction  
 
 # Week 9 - 
-Anomaly Detection
-Recommender Systems
+Anomaly Detection  
+Recommender Systems  
 
 # Week 10 - 
-Large Scale Machine Learning
+Large Scale Machine Learning  
 
 # Week 11 - 
-Application Example: Photo OCR
+Application Example: Photo OCR  
